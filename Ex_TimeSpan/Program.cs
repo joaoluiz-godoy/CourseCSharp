@@ -1,4 +1,4 @@
-﻿//Incialização
+//Incialização
 
 using System;
 

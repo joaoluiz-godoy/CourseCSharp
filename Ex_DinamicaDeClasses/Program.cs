@@ -1,4 +1,4 @@
-﻿using Ex_DinamicaDeClasses.Entities.Enums;
+using Ex_DinamicaDeClasses.Entities.Enums;
 using Ex_DinamicaDeClasses.Entities;
 using System;
 using System.Diagnostics;

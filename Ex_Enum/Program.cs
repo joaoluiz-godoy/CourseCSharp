@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Ex_Enum.Entities; //library para usar o Order
 using Ex_Enum.Entities.Enums; //libary para usar OrderStatus
 

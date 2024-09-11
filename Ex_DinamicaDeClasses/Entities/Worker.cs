@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using Ex_DinamicaDeClasses.Entities.Enums; //para usar o WorkerLevel
 

@@ -1,0 +1,299 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_EntradaDeDados",
+            "request": "attach",
+            "projectID": "9d918dfe-b06d-4ba9-93c9-0b7c99f68f74"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_IfElse",
+            "request": "attach",
+            "projectID": "e1fccc7e-fa7e-4481-bb46-0b27ef45eb5d"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_For",
+            "request": "attach",
+            "projectID": "d64cb926-dbaf-4350-83c0-80a6427ce1a5"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_TiposDeDadosBásicos",
+            "request": "attach",
+            "projectID": "6ea4b2d8-2276-475b-a4c6-91c63f753f22"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "HelloWorld",
+            "request": "attach",
+            "projectID": "b77ab0b4-40bb-488c-8fe0-14eda76eb4f6"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_While",
+            "request": "attach",
+            "projectID": "07ccab80-4ec4-4a63-acf2-711f943001e5"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex1(OOP)",
+            "request": "attach",
+            "projectID": "a8e305a8-790c-445e-ba64-4b73f545885f"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex3(OOP)",
+            "request": "attach",
+            "projectID": "17daaf9d-0ab3-495e-a562-b949e380d3f2"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "ProblemaProduto(OOP)",
+            "request": "attach",
+            "projectID": "95e163fb-a3d0-40ad-b8f5-022eeee5c6c0"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_ContaBancária",
+            "request": "attach",
+            "projectID": "4b511d51-fe16-40c3-9a1d-3b00c66dc595"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_List",
+            "request": "attach",
+            "projectID": "cbf59f67-771c-45ee-82ef-50dedac6b3f3"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_List2",
+            "request": "attach",
+            "projectID": "9af64cc0-49d3-4f3a-a83b-77eba83f148c"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_Matrices",
+            "request": "attach",
+            "projectID": "20df9984-cd0a-4859-bd60-979e8033051f"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_Matrices2(Search)",
+            "request": "attach",
+            "projectID": "cdc43f46-ea02-401b-aec6-1151c71f88a7"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_Nullable",
+            "request": "attach",
+            "projectID": "9f47ae6c-553c-456e-806e-8ac110e831bf"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_RefOut",
+            "request": "attach",
+            "projectID": "ca85b02f-f01f-477f-84c3-7ab2a8ba530f"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_Vetores",
+            "request": "attach",
+            "projectID": "c84e0086-067d-4ea7-b925-9dd6fe14bfcb"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_DateTime",
+            "request": "attach",
+            "projectID": "6905fa6e-41de-4982-99f0-368859491fae"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_Enum",
+            "request": "attach",
+            "projectID": "74abcc7d-eb90-4065-bf1b-2c9792d79e35"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_TimeSpan",
+            "request": "attach",
+            "projectID": "ee9beb37-4b17-4ef3-a4ff-048ef94aeefc"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_DinamicaDeClasses",
+            "request": "attach",
+            "projectID": "37ca3f4b-59ae-496d-97ef-80387d64c578"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_CondTernária",
+            "request": "attach",
+            "projectID": "9b446a91-22d8-4b0c-8c96-422c5b8b9024"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_UpcastingDowncasting",
+            "request": "attach",
+            "projectID": "739519e7-9662-4bac-acf2-398a50bc3082"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_Sobreposição",
+            "request": "attach",
+            "projectID": "07a8c123-4a64-4885-9533-10adab257a15"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex1(HerançaPolimorfirsmo)",
+            "request": "attach",
+            "projectID": "563ee563-289f-40ed-a2ea-7ffea8b98833"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_TryCatchFinally",
+            "request": "attach",
+            "projectID": "024a28f1-9ab6-4e3b-8333-d349f51277cf"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_ExceçõesPersonalizadas",
+            "request": "attach",
+            "projectID": "6a0b4526-66eb-4af8-87e4-acc59ea731df"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_Extra",
+            "request": "attach",
+            "projectID": "c9b014d7-4b0a-4dbf-b73a-163003d7818a"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_FIleFileInfo",
+            "request": "attach",
+            "projectID": "a784dc63-0cf2-4e3e-a3fd-a4a48bc79f8f"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_FileStreamStreamReader",
+            "request": "attach",
+            "projectID": "6370f9c0-5485-4b65-862b-1a92520fa1a2"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_BlocoUsing",
+            "request": "attach",
+            "projectID": "b656c30a-630d-4e47-bfda-550c3e7aabec"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_StreamReader",
+            "request": "attach",
+            "projectID": "c89f7542-ac0c-4346-9ac8-ed5f51abe2ab"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_Directory",
+            "request": "attach",
+            "projectID": "390bd12d-f4a1-47d0-94ef-7f776505f4ee"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_Path",
+            "request": "attach",
+            "projectID": "0510c4ba-9b6f-477e-9d8c-5d35187b284c"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex1(Files)",
+            "request": "attach",
+            "projectID": "67050760-2634-4845-8122-982a5ce9ac01"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex1(Interfaces)",
+            "request": "attach",
+            "projectID": "1a47915c-7455-4084-a5d0-bad39626e1c9"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_HerançaMultipla",
+            "request": "attach",
+            "projectID": "cba170c1-243d-4f5c-a70a-5dd73343c372"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_IComparable",
+            "request": "attach",
+            "projectID": "da07974f-d973-4db8-b168-9ff1050a378c"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex1(Generics)",
+            "request": "attach",
+            "projectID": "6e255cd3-0892-43b5-af13-6fcef1d6739b"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex2(Generics)",
+            "request": "attach",
+            "projectID": "78bd3bee-c79e-4596-be64-ae45ed42c05d"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_GetHashCode-Equals",
+            "request": "attach",
+            "projectID": "4d60f121-34ec-4171-93d4-e635f914c3f7"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_HashESortedSet",
+            "request": "attach",
+            "projectID": "a8cd7dcb-e250-4b5c-a6df-d80a5e058d99"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_TestandoIgualdadeHash",
+            "request": "attach",
+            "projectID": "d4389c8d-5392-4bc7-bceb-45d6a5743b06"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "TestProject1",
+            "request": "attach",
+            "projectID": "33a98c54-01af-4c42-a310-d087dfc0642f"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_DictSortedDict",
+            "request": "attach",
+            "projectID": "c8321c91-8092-454d-95b3-e03805e0459e"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_ExtensionMethods",
+            "request": "attach",
+            "projectID": "49dd548e-5690-45f1-9814-7d18037edc17"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_Delegates",
+            "request": "attach",
+            "projectID": "0d3a1c49-2e87-40c6-9980-889241c71e10"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_Linq",
+            "request": "attach",
+            "projectID": "99a2c393-0808-49c4-a8aa-6389cef49712"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Ex_Record",
+            "request": "attach",
+            "projectID": "cbb4f957-54eb-4a31-994e-53e9a9fb462c"
+        }
+    ]
+}

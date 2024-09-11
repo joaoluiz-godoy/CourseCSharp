@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Ex_ExceçõesPersonalizadas.Entities;
 using Ex_ExceçõesPersonalizadas.Entitiqes;
 using Ex_ExceçõesPersonalizadas.Entitiqes.Exceptions;
@@ -28,7 +28,7 @@ namespace Ex_ExceçõesPersonalizadas
 
                 Console.WriteLine("Enter data to update the reservation:");
 
-                Console.Write("Check-in date (dd/MM/yyyy): ");
+                Console.Write("Check-in date (dd/MM/yyyy): ");  
                 DateTime newCheckIn = DateTime.ParseExact(Console.ReadLine(), "dd/MM/yyyy", null);
 
                 Console.Write("Check-out date (dd/MM/yyyy): ");

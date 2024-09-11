@@ -1,4 +1,4 @@
-﻿using Ex1_HerançaPolimorfirsmo_.Entities;
+using Ex1_HerançaPolimorfirsmo_.Entities;
 
 class Program
 {

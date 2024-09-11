@@ -1,4 +1,3 @@
-﻿using System;
 using Ex_Sobreposição.Entities;
 
 class Program

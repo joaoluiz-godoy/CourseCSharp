@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Ex_Extra.Entities;
 
 class Program

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Threading.Tasks;
 
 using Ex_Enum.Entities.Enums; //Lembre de Incluir como biblioteca quando for usar outras classes que vc criou
